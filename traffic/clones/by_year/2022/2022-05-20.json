@@ -1,9 +1,9 @@
 {
-  "timestamp" : "2022-05-21T00:52:43Z",
-  "count" : 14,
-  "count_minmax" : [ 7, 14 ],
-  "count_decinc" : [ -0, +14 ],
-  "uniques" : 11,
+  "timestamp" : "2022-06-03T08:13:40Z",
+  "count" : 6,
+  "count_minmax" : [ 6, 14 ],
+  "count_decinc" : [ -8, +14 ],
+  "uniques" : 6,
   "uniques_minmax" : [ 5, 11 ],
-  "uniques_decinc" : [ -0, +11 ]
+  "uniques_decinc" : [ -5, +11 ]
 }
