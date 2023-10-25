@@ -1,19 +1,10 @@
 {
-  "timestamp" : "2023-10-22T16:14:06Z",
-  "count_outdated" : 285,
-  "uniques_outdated" : 108,
+  "timestamp" : "2023-10-25T00:52:52Z",
+  "count_outdated" : 295,
+  "uniques_outdated" : 109,
   "count" : 337,
   "uniques" : 112,
   "views" : [
-    {
-      "timestamp": "2023-10-10T00:00:00Z",
-      "count": 10,
-      "count_minmax": [ 10, 10 ],
-      "count_decinc": [ 0, 10 ],
-      "uniques": 1,
-      "uniques_minmax": [ 1, 1 ],
-      "uniques_decinc": [ 0, 1 ]
-    },
     {
       "timestamp": "2023-10-20T00:00:00Z",
       "count": 7,
